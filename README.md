@@ -37,7 +37,7 @@ Problem Solving: LeetCode / CodeChef
 👉 Pinned repositories below showcase my best work.
 
 📫 Connect With Me
-GitHub:https://github.com/theSatyaprakash
+GitHub: https://github.com/theSatyaprakash
 Email: satyaprakash1526@gmail.com  
 LinkedIn: https://linkedin.com/in/satya-prakash-swain-37a22631b  
 
